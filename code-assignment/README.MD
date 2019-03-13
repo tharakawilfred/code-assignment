@@ -6,7 +6,7 @@ Code Assignment Java Developer - Highlevel Design for the Solution
               .          .        .       .
               .             .         .           .
               .                .          .               .
-              .                   .           .                 .Dolohin
+              .                   .           .                 .Dolphin
               .                     .             .
               .                       .                 .
              Bird                   Caterpillar         Fish <----------------Clownfish
